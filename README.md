@@ -16,5 +16,3 @@ Index :
 13. Transform
 14. Visibillity
 15. Selectors
-
-![box-model-css](https://user-images.githubusercontent.com/76121929/104314642-12a2be00-551d-11eb-82ff-1733a1ad7cd1.png)
