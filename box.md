@@ -1,6 +1,6 @@
 ### Box Model
 
-img
+![box-model-css](https://user-images.githubusercontent.com/76121929/104314642-12a2be00-551d-11eb-82ff-1733a1ad7cd1.png)
 
 **content** :
 
@@ -54,6 +54,8 @@ display : flex;
 
 **block** :
 
+![block](https://user-images.githubusercontent.com/76121929/104319226-eccce780-5523-11eb-947b-5ab60eedfa2f.JPG)
+
 - block은 자기 옆으로 다른 요소가 올 수 없도록 '길막'을 함
 - block에 따로 width 지정하지 않을 시 부모 content-box의 100%
 - width를 지정한 경우 남는 공간은 margin으로 채움 (부모width:1000px > width:400px, margin:600px)
@@ -61,6 +63,8 @@ display : flex;
 - border, padding, width, height, margin … 사용가능
 
 **inline** :
+
+![inline](https://user-images.githubusercontent.com/76121929/104319234-ee96ab00-5523-11eb-9abe-42e9d0776d67.JPG)
 
 - width, height, padding-top, padding-bottom, border-top, border-bottom, margin-top, margin-bottom … 사용불가
 - padding-left, padding-right, border-left, border-right, margin-left, margin-right … 사용가능
