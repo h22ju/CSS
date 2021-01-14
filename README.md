@@ -11,8 +11,6 @@ Index :
 8. Transition
 9. Animation
 10. Box Shadow
-11. Opacity
-12. Overflow
-13. Transform
-14. Visibillity
-15. Selectors
+11. Transform
+12. Visibillity
+13. Selectors
