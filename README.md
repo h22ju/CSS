@@ -12,5 +12,4 @@ Index :
 9. Animation
 10. Box Shadow
 11. Transform
-12. Visibillity
-13. Selectors
+12. Selectors
