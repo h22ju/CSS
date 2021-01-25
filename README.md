@@ -1,5 +1,5 @@
 #### ✍ learn css
-#### css 독학을 위한 
+#### css 독학을 위한 공간
 
 Index :
 1. Box
