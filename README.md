@@ -1,5 +1,5 @@
 #### ✍ learn css
-#### css 독학을 위한 공간
+##### css 독학을 위한 공간
 
 Index :
 1. Box
@@ -14,3 +14,4 @@ Index :
 10. Box Shadow
 11. Transform
 12. Selectors
+  
